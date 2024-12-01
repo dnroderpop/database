@@ -1,9 +1,56 @@
 {
-  "name": "mathventure.json",
-  "path": "mathventure.json",
-  "sha": "some-sha-value",
-  "size": 1234,
-  "url": "https://api.github.com/repos/dnroderpop/database/contents/mathventure.json",
-  "content": "base64-encoded-content",
-  "encoding": "base64"
+    "entries": [
+        {
+            "playerName": "Ron",
+            "progress": 60
+        },
+        {
+            "playerName": "Ron",
+            "progress": 60
+        },
+        {
+            "playerName": "Ron",
+            "progress": 0
+        },
+        {
+            "playerName": "Player",
+            "progress": 0
+        },
+        {
+            "playerName": "Player",
+            "progress": 0
+        },
+        {
+            "playerName": "Player",
+            "progress": 0
+        },
+        {
+            "playerName": "Player",
+            "progress": 0
+        },
+        {
+            "playerName": "Player",
+            "progress": 0
+        },
+        {
+            "playerName": "Player",
+            "progress": 0
+        },
+        {
+            "playerName": "Rod",
+            "progress": 0
+        },
+        {
+            "playerName": "Rod",
+            "progress": 60
+        },
+        {
+            "playerName": "Player",
+            "progress": 0
+        },
+        {
+            "playerName": "REosodad",
+            "progress": 0
+        }
+    ]
 }
