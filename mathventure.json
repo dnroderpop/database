@@ -11,6 +11,10 @@
         {
             "playerName": "paul",
             "progress": 0
+        },
+        {
+            "playerName": "yves",
+            "progress": 40
         }
     ]
 }
