@@ -1,0 +1,5 @@
+{
+  "sha": "some-sha-value",
+  "content": "base64-encoded-content",
+  "encoding": "base64"
+}
