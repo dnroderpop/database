@@ -1,1 +1,18 @@
-
+[
+    {
+        "sessionID": 1,
+        "deaths": 5,
+        "wrongAnswers": 3,
+        "rightAnswers": 10,
+        "lastLevelUnlock": 3,
+        "levelPlays": [2, 3, 1, 0, 0]
+    },
+    {
+        "sessionID": 2,
+        "deaths": 0,
+        "wrongAnswers": 1,
+        "rightAnswers": 4,
+        "lastLevelUnlock": 2,
+        "levelPlays": [1, 1, 0, 0, 0]
+    }
+]
