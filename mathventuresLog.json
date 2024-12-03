@@ -1,1 +1,15 @@
+[
+    {
+        "sessionID": 1,
+        "playerName": "Player",
+        "logMessage": "Player reached level 2!",
+        "timestamp": "2024-12-03 08:45:30"
+    },
+    {
+        "sessionID": 2,
+        "playerName": "yves",
+        "logMessage": "Answer correctly the question 1 + 1!",
+        "timestamp": "2024-12-03 08:50:00"
+    }
+]
 
