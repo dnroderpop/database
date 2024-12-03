@@ -43,6 +43,10 @@
         {
             "playerName": "dffdf",
             "progress": 60
+        },
+        {
+            "playerName": "Player",
+            "progress": 20
         }
     ]
 }
