@@ -10,11 +10,5 @@
     "playerName": "yves",
     "logMessage": "Answer correctly the question 1 + 1!",
     "timestamp": "2024-12-03 08:50:00"
-  },
-  {
-    "sessionID": 0,
-    "playerName": "RODERICK",
-    "logMessage": "Player has save settings",
-    "timestamp": "2024-12-03 11:44:14"
   }
 ]
