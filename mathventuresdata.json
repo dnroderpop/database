@@ -16,7 +16,22 @@
   },
   {
     "sessionID": 1,
-    "playerName": "Players",
+    "playerName": "Player",
+    "deaths": 0,
+    "wrongAnswers": 0,
+    "rightAnswers": 0,
+    "lastLevelUnlock": 1,
+    "levelPlays": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "sessionID": 2,
+    "playerName": "Player",
     "deaths": 0,
     "wrongAnswers": 0,
     "rightAnswers": 0,
