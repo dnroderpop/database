@@ -190,5 +190,11 @@
     "playerName": "Yves",
     "logMessage": "Player has save settings",
     "timestamp": "2024-12-03 14:53:30"
+  },
+  {
+    "sessionID": 2,
+    "playerName": "Yvess",
+    "logMessage": "Player has save settings",
+    "timestamp": "2024-12-03 14:53:33"
   }
 ]
