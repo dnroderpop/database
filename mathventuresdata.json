@@ -1,6 +1,7 @@
 [
     {
         "sessionID": 1,
+        "playerName": "Player",
         "deaths": 5,
         "wrongAnswers": 3,
         "rightAnswers": 10,
@@ -9,6 +10,7 @@
     },
     {
         "sessionID": 2,
+        "playerName": "Player",
         "deaths": 0,
         "wrongAnswers": 1,
         "rightAnswers": 4,
