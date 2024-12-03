@@ -133,5 +133,20 @@
       0,
       0
     ]
+  },
+  {
+    "sessionID": 9,
+    "playerName": "dffdf",
+    "deaths": 0,
+    "wrongAnswers": 0,
+    "rightAnswers": 0,
+    "lastLevelUnlock": 1,
+    "levelPlays": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   }
 ]
