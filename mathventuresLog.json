@@ -748,5 +748,11 @@
     "playerName": "sasd",
     "logMessage": "Player has save settings",
     "timestamp": "2024-12-03 16:20:41"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "sas2",
+    "logMessage": "Player has save settings",
+    "timestamp": "2024-12-03 16:20:51"
   }
 ]
