@@ -238,5 +238,11 @@
     "playerName": "Player",
     "logMessage": "Player name changed to Player",
     "timestamp": "2024-12-04 02:12:54"
+  },
+  {
+    "sessionID": 10,
+    "playerName": "Player",
+    "logMessage": "Player name changed to bdjejsjs",
+    "timestamp": "2024-12-04 02:13:09"
   }
 ]
