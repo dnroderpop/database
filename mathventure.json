@@ -51,6 +51,10 @@
         {
             "playerName": "Player",
             "progress": 20
+        },
+        {
+            "playerName": "Player",
+            "progress": 0
         }
     ]
 }
