@@ -1,1 +1,15 @@
+{
+    "sessions": [
+        {
+            "sessionID": 1,
+            "name": "sampleplayer",
+            "progress": "50%"
+        },
+        {
+            "sessionID": 2,
+            "name": "Player2",
+            "progress": "80%"
+        }
+    ]
+}
 
