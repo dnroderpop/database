@@ -1,6 +1,5 @@
-{
-    [
+[
         { "sessionID": 1, "name": "Player1", "progress": "50%" },
         { "sessionID": 2, "name": "Player2", "progress": "80%" }
-    ]
-}
+]
+
