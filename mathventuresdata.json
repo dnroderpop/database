@@ -1,25 +1,10 @@
 [
   {
-    "sessionID": 0,
+    "sessionID": 1,
     "playerName": "Player",
     "deaths": 0,
     "wrongAnswers": 0,
     "rightAnswers": 0,
-    "lastLevelUnlock": 0,
-    "levelPlays": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "sessionID": 1,
-    "playerName": "kahlid",
-    "deaths": 0,
-    "wrongAnswers": 1,
-    "rightAnswers": 1,
     "lastLevelUnlock": 1,
     "levelPlays": [
       0,
@@ -61,130 +46,10 @@
   },
   {
     "sessionID": 4,
-    "playerName": "sakdlas",
-    "deaths": 0,
-    "wrongAnswers": 0,
-    "rightAnswers": 0,
-    "lastLevelUnlock": 1,
-    "levelPlays": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "sessionID": 5,
-    "playerName": "asead",
-    "deaths": 0,
-    "wrongAnswers": 0,
-    "rightAnswers": 0,
-    "lastLevelUnlock": 1,
-    "levelPlays": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "sessionID": 6,
-    "playerName": "asead",
-    "deaths": 0,
-    "wrongAnswers": 0,
-    "rightAnswers": 0,
-    "lastLevelUnlock": 1,
-    "levelPlays": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "sessionID": 7,
     "playerName": "Player",
     "deaths": 0,
     "wrongAnswers": 0,
     "rightAnswers": 0,
-    "lastLevelUnlock": 1,
-    "levelPlays": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "sessionID": 8,
-    "playerName": "dffdf",
-    "deaths": 0,
-    "wrongAnswers": 0,
-    "rightAnswers": 0,
-    "lastLevelUnlock": 1,
-    "levelPlays": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "sessionID": 9,
-    "playerName": "Player",
-    "deaths": 0,
-    "wrongAnswers": 0,
-    "rightAnswers": 0,
-    "lastLevelUnlock": 1,
-    "levelPlays": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "sessionID": 10,
-    "playerName": "Player",
-    "deaths": 0,
-    "wrongAnswers": 0,
-    "rightAnswers": 0,
-    "lastLevelUnlock": 1,
-    "levelPlays": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "sessionID": 11,
-    "playerName": "Player",
-    "deaths": 0,
-    "wrongAnswers": 0,
-    "rightAnswers": 0,
-    "lastLevelUnlock": 1,
-    "levelPlays": [
-      0,
-      0,
-      0,
-      0,
-      0
-    ]
-  },
-  {
-    "sessionID": 12,
-    "playerName": "Nico",
-    "deaths": 0,
-    "wrongAnswers": 1,
-    "rightAnswers": 3,
     "lastLevelUnlock": 1,
     "levelPlays": [
       0,
