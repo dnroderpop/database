@@ -364,5 +364,11 @@
     "playerName": "Nico",
     "logMessage": "Player got it correct for question 40 / 8 x 6 = 30 by answering 30",
     "timestamp": "2024-12-05 03:35:04"
+  },
+  {
+    "sessionID": 12,
+    "playerName": "Nico",
+    "logMessage": "Player got it correct for question (18 + 12) / 5 - 4 = 2  by answering 2",
+    "timestamp": "2024-12-05 03:39:04"
   }
 ]
