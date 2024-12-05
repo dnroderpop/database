@@ -478,5 +478,11 @@
     "playerName": "kahlid",
     "logMessage": "Player has fallen at level 1",
     "timestamp": "2024-12-05 09:54:10"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "kahlid",
+    "logMessage": "Player gotten the 12 + 24 - 4 = Wrong, because he/she answered -1",
+    "timestamp": "2024-12-05 09:54:59"
   }
 ]
