@@ -460,5 +460,11 @@
     "playerName": "kahlid",
     "logMessage": "Player has fallen at level 1",
     "timestamp": "2024-12-05 09:50:19"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "kahlid",
+    "logMessage": "Player name changed to kahlid",
+    "timestamp": "2024-12-05 09:50:28"
   }
 ]
