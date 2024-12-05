@@ -322,5 +322,11 @@
     "playerName": "Khayr",
     "logMessage": "Player name changed to Khayr",
     "timestamp": "2024-12-05 03:12:41"
+  },
+  {
+    "sessionID": 12,
+    "playerName": "Nico",
+    "logMessage": "Player got it correct for question 12 + 24 - 4 = by answering 32",
+    "timestamp": "2024-12-05 03:21:44"
   }
 ]
