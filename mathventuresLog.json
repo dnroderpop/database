@@ -544,5 +544,11 @@
     "playerName": "Player",
     "logMessage": "Player has fallen at level 1",
     "timestamp": "2024-12-05 12:49:44"
+  },
+  {
+    "sessionID": 4,
+    "playerName": "Player",
+    "logMessage": "Player died on level 1",
+    "timestamp": "2024-12-05 12:49:50"
   }
 ]
