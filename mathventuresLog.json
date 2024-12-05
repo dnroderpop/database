@@ -346,5 +346,11 @@
     "playerName": "Nico",
     "logMessage": "Player got it correct for question 25 - 40 / 8 = 20 by answering 20",
     "timestamp": "2024-12-05 03:30:34"
+  },
+  {
+    "sessionID": 12,
+    "playerName": "Nico",
+    "logMessage": "Player has fallen at level 1",
+    "timestamp": "2024-12-05 03:31:18"
   }
 ]
