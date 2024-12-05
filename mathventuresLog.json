@@ -340,5 +340,11 @@
     "playerName": "Nico",
     "logMessage": "Player gotten the 25 - 40 / 8 = 20 Wrong, because he/she answered -1",
     "timestamp": "2024-12-05 03:28:59"
+  },
+  {
+    "sessionID": 12,
+    "playerName": "Nico",
+    "logMessage": "Player got it correct for question 25 - 40 / 8 = 20 by answering 20",
+    "timestamp": "2024-12-05 03:30:34"
   }
 ]
