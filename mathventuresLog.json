@@ -574,5 +574,11 @@
     "playerName": "kahlid",
     "logMessage": "Player gotten the 7 x ( 45 / 9 ) - 8 =  27  Wrong, because he/she answered -1",
     "timestamp": "2024-12-05 13:25:25"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "kahlid",
+    "logMessage": "Player got it correct for question 7 x ( 45 / 9 ) - 8 =  27  by answering 27",
+    "timestamp": "2024-12-05 13:29:55"
   }
 ]
