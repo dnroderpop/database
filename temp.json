@@ -3,12 +3,77 @@
         {
             "sessionID": 1,
             "name": "sampleplayer",
-            "progress": "50%"
+            "progress": "50.00%"
         },
         {
             "sessionID": 2,
             "name": "Player2",
-            "progress": "80%"
+            "progress": "80.24%"
+        },
+        {
+            "sessionID": 3,
+            "name": "sampleplayer",
+            "progress": "50.00%"
+        },
+        {
+            "sessionID": 4,
+            "name": "Player2",
+            "progress": "80.24%"
+        },
+        {
+            "sessionID": 5,
+            "name": "sampleplayer",
+            "progress": "50.00%"
+        },
+        {
+            "sessionID": 6,
+            "name": "sampleplayer",
+            "progress": "50.00%"
+        },
+        {
+            "sessionID": 7,
+            "name": "Player2",
+            "progress": "80.24%"
+        },
+        {
+            "sessionID": 8,
+            "name": "sampleplayer",
+            "progress": "50.00%"
+        },
+        {
+            "sessionID": 9,
+            "name": "Player2",
+            "progress": "80.24%"
+        },
+        {
+            "sessionID": 10,
+            "name": "sampleplayer",
+            "progress": "50.00%"
+        },
+        {
+            "sessionID": 11,
+            "name": "sampleplayer",
+            "progress": "50.00%"
+        },
+        {
+            "sessionID": 12,
+            "name": "Player2",
+            "progress": "80.24%"
+        },
+        {
+            "sessionID": 13,
+            "name": "sampleplayer",
+            "progress": "50.00%"
+        },
+        {
+            "sessionID": 14,
+            "name": "Player2",
+            "progress": "80.24%"
+        },
+        {
+            "sessionID": 15,
+            "name": "sampleplayer",
+            "progress": "50.00%"
         }
     ]
 }
