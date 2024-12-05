@@ -328,5 +328,11 @@
     "playerName": "Nico",
     "logMessage": "Player got it correct for question 12 + 24 - 4 = by answering 32",
     "timestamp": "2024-12-05 03:21:44"
+  },
+  {
+    "sessionID": 12,
+    "playerName": "Nico",
+    "logMessage": "Player got it correct for question 6 x 9 - 8 - 5 = 41 by answering 41",
+    "timestamp": "2024-12-05 03:26:47"
   }
 ]
