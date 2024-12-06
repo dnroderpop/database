@@ -688,5 +688,11 @@
     "playerName": "Player",
     "logMessage": "Player gotten the 90 - 17 + 5 = Wrong, because he/she answered -1",
     "timestamp": "2024-12-06 12:31:42"
+  },
+  {
+    "sessionID": 4,
+    "playerName": "Player",
+    "logMessage": "Player gotten the 90 - 17 + 5 = Wrong, because he/she answered -1",
+    "timestamp": "2024-12-06 12:32:00"
   }
 ]
