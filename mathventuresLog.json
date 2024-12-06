@@ -616,5 +616,11 @@
     "playerName": "paul",
     "logMessage": "Player gotten the 72 + 14 / ( 15 - 8 ) = 74 Wrong, because he/she answered -1",
     "timestamp": "2024-12-06 09:02:49"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "paul",
+    "logMessage": "Player got it correct for question 72 + 14 / ( 15 - 8 ) = 74 by answering 73",
+    "timestamp": "2024-12-06 09:03:08"
   }
 ]
