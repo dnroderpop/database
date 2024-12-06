@@ -754,5 +754,11 @@
     "playerName": "Player",
     "logMessage": "Player name changed to Player",
     "timestamp": "2024-12-06 19:09:12"
+  },
+  {
+    "sessionID": 4,
+    "playerName": "Player",
+    "logMessage": "Player name changed to Player",
+    "timestamp": "2024-12-06 19:32:00"
   }
 ]
