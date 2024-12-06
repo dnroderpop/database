@@ -748,5 +748,11 @@
     "playerName": "RDSAD",
     "logMessage": "Player got it correct for question 7 + 24 - 15 = by answering 16",
     "timestamp": "2024-12-06 18:25:04"
+  },
+  {
+    "sessionID": 4,
+    "playerName": "Player",
+    "logMessage": "Player name changed to Player",
+    "timestamp": "2024-12-06 19:09:12"
   }
 ]
