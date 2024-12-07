@@ -157,17 +157,17 @@
         },
         {
             "sessionID": 32,
-            "name": "Player2",
+            "name": "Player32",
             "progress": "100.00%"
         },
         {
             "sessionID": 33,
-            "name": "Player3",
+            "name": "Player33",
             "progress": "100.00%"
         },
         {
             "sessionID": 34,
-            "name": "Player4",
+            "name": "Player34",
             "progress": "100.00%"
         }
     ]
