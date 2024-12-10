@@ -772,5 +772,11 @@
     "playerName": "Player",
     "logMessage": "Player got it correct for question 90 - 17 + 5 = by answering 68",
     "timestamp": "2024-12-10 01:42:10"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "Player",
+    "logMessage": "Player has fallen at level 1",
+    "timestamp": "2024-12-10 01:42:57"
   }
 ]
