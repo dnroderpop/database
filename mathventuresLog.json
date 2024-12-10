@@ -796,5 +796,11 @@
     "playerName": "RDSAD",
     "logMessage": "Player has fallen at level 1",
     "timestamp": "2024-12-10 15:30:35"
+  },
+  {
+    "sessionID": 6,
+    "playerName": "RDSAD",
+    "logMessage": "Player has fallen at level 1",
+    "timestamp": "2024-12-10 17:42:07"
   }
 ]
