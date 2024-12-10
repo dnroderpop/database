@@ -4,7 +4,7 @@
     "playerName": "Player",
     "deaths": 0,
     "wrongAnswers": 4,
-    "rightAnswers": 4,
+    "rightAnswers": 5,
     "lastLevelUnlock": 1,
     "levelPlays": [
       0,
