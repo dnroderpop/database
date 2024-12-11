@@ -808,5 +808,11 @@
     "playerName": "Ron",
     "logMessage": "Player has fallen at level 1",
     "timestamp": "2024-12-11 08:47:08"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "Ron",
+    "logMessage": "Player has fallen at level 1",
+    "timestamp": "2024-12-11 08:48:02"
   }
 ]
