@@ -820,5 +820,11 @@
     "playerName": "Ron",
     "logMessage": "Player gotten the 6 x 7 - 5 = 37 Wrong, because he/she answered -1",
     "timestamp": "2024-12-11 08:48:19"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "Ron",
+    "logMessage": "Player died on level 1",
+    "timestamp": "2024-12-11 08:48:22"
   }
 ]
