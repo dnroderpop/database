@@ -850,5 +850,11 @@
     "playerName": "Ron",
     "logMessage": "Player died on level 1",
     "timestamp": "2024-12-11 08:52:22"
+  },
+  {
+    "sessionID": 6,
+    "playerName": "RDSAD",
+    "logMessage": "Player has fallen at level 1",
+    "timestamp": "2024-12-15 17:35:00"
   }
 ]
