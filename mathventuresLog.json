@@ -886,5 +886,11 @@
     "playerName": "RDSAD",
     "logMessage": "Player got it correct for question 72 + 14 / ( 15 - 8 ) = 74 by answering 73",
     "timestamp": "2024-12-15 17:53:46"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "Player",
+    "logMessage": "Player name changed to Player",
+    "timestamp": "2025-01-05 10:23:50"
   }
 ]
