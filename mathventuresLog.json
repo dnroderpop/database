@@ -994,5 +994,11 @@
     "playerName": "Paul",
     "logMessage": "Player got it correct for question 40 / 8 x 6 = 30 by answering 30",
     "timestamp": "2025-01-06 12:16:50"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "Paul",
+    "logMessage": "Player gotten the 7 x ( 45 / 9 ) - 8 =  27  Wrong, because he/she answered -1",
+    "timestamp": "2025-01-06 12:19:05"
   }
 ]
