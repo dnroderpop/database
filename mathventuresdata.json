@@ -88,5 +88,20 @@
       0,
       0
     ]
+  },
+  {
+    "sessionID": 7,
+    "playerName": "Player",
+    "deaths": 0,
+    "wrongAnswers": 0,
+    "rightAnswers": 0,
+    "lastLevelUnlock": 1,
+    "levelPlays": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   }
 ]
