@@ -1042,5 +1042,11 @@
     "playerName": "yves",
     "logMessage": "Player gotten the 12 + 24 - 4 = Wrong, because he/she answered -1",
     "timestamp": "2025-01-08 14:22:10"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "yves",
+    "logMessage": "Player got it correct for question 12 + 24 - 4 = by answering 32",
+    "timestamp": "2025-01-08 14:22:36"
   }
 ]
