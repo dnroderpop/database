@@ -1066,5 +1066,11 @@
     "playerName": "yves",
     "logMessage": "Player died on level 1",
     "timestamp": "2025-01-08 14:23:51"
+  },
+  {
+    "sessionID": 1,
+    "playerName": "Player",
+    "logMessage": "Player name changed to hshsajja",
+    "timestamp": "2025-01-09 10:34:35"
   }
 ]
