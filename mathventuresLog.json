@@ -973,5 +973,10 @@
     "playerName": "Arthur",
     "logMessage": "Player Arthur correctly answered '12 + 24 - 4 =' with '32'.",
     "timestamp": "2025-01-12 17:19:07"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player has fallen at level 1",
+    "timestamp": "2025-01-12 17:19:46"
   }
 ]
