@@ -18,8 +18,8 @@
     "playerName": "Arthur",
     "gender": "Male",
     "deaths": 10,
-    "wrongAnswers": 16,
-    "rightAnswers": 7,
+    "wrongAnswers": 14,
+    "rightAnswers": 6,
     "lastLevelUnlock": 4,
     "levelPlays": [
       3,
