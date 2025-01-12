@@ -6,7 +6,13 @@
     "wrongAnswers": 3,
     "rightAnswers": 15,
     "lastLevelUnlock": 5,
-    "levelPlays": [2, 0, 0, 2, 2]
+    "levelPlays": [
+      2,
+      0,
+      0,
+      2,
+      2
+    ]
   },
   {
     "playerName": "Arthur",
@@ -15,7 +21,13 @@
     "wrongAnswers": 14,
     "rightAnswers": 6,
     "lastLevelUnlock": 4,
-    "levelPlays": [3, 1, 1, 2, 0]
+    "levelPlays": [
+      3,
+      1,
+      1,
+      2,
+      0
+    ]
   },
   {
     "playerName": "Mia",
@@ -24,7 +36,13 @@
     "wrongAnswers": 10,
     "rightAnswers": 12,
     "lastLevelUnlock": 3,
-    "levelPlays": [0, 0, 3, 2, 2]
+    "levelPlays": [
+      0,
+      0,
+      3,
+      2,
+      2
+    ]
   },
   {
     "playerName": "James",
@@ -33,7 +51,13 @@
     "wrongAnswers": 9,
     "rightAnswers": 6,
     "lastLevelUnlock": 4,
-    "levelPlays": [2, 3, 0, 0, 3]
+    "levelPlays": [
+      2,
+      3,
+      0,
+      0,
+      3
+    ]
   },
   {
     "playerName": "Sophia",
@@ -42,7 +66,13 @@
     "wrongAnswers": 14,
     "rightAnswers": 5,
     "lastLevelUnlock": 2,
-    "levelPlays": [3, 2, 0, 2, 0]
+    "levelPlays": [
+      3,
+      2,
+      0,
+      2,
+      0
+    ]
   },
   {
     "playerName": "Leo",
@@ -51,7 +81,13 @@
     "wrongAnswers": 2,
     "rightAnswers": 7,
     "lastLevelUnlock": 3,
-    "levelPlays": [2, 2, 3, 2, 3]
+    "levelPlays": [
+      2,
+      2,
+      3,
+      2,
+      3
+    ]
   },
   {
     "playerName": "Henry",
@@ -60,7 +96,13 @@
     "wrongAnswers": 11,
     "rightAnswers": 1,
     "lastLevelUnlock": 5,
-    "levelPlays": [0, 2, 2, 0, 2]
+    "levelPlays": [
+      0,
+      2,
+      2,
+      0,
+      2
+    ]
   },
   {
     "playerName": "Mia",
@@ -69,7 +111,13 @@
     "wrongAnswers": 3,
     "rightAnswers": 5,
     "lastLevelUnlock": 4,
-    "levelPlays": [2, 2, 1, 2, 1]
+    "levelPlays": [
+      2,
+      2,
+      1,
+      2,
+      1
+    ]
   },
   {
     "playerName": "Ron",
@@ -78,7 +126,13 @@
     "wrongAnswers": 4,
     "rightAnswers": 12,
     "lastLevelUnlock": 4,
-    "levelPlays": [3, 1, 3, 0, 3]
+    "levelPlays": [
+      3,
+      1,
+      3,
+      0,
+      3
+    ]
   },
   {
     "playerName": "Sophia",
@@ -87,6 +141,27 @@
     "wrongAnswers": 5,
     "rightAnswers": 7,
     "lastLevelUnlock": 1,
-    "levelPlays": [3, 0, 2, 2, 2]
+    "levelPlays": [
+      3,
+      0,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "playerName": "SSSS",
+    "gender": "Male",
+    "deaths": 0,
+    "wrongAnswers": 0,
+    "rightAnswers": 0,
+    "lastLevelUnlock": 1,
+    "levelPlays": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   }
 ]
