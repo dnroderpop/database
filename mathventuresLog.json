@@ -958,5 +958,10 @@
     "playerName": "Arthur",
     "logMessage": "Player name changed to Arthur",
     "timestamp": "2025-01-12 16:25:19"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player Arthur answered question '12 + 24 - 4 =' incorrectly with '-1'.",
+    "timestamp": "2025-01-12 17:18:37"
   }
 ]
