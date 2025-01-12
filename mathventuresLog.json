@@ -993,5 +993,10 @@
     "playerName": "ArthurNery",
     "logMessage": "Player name changed to Arthur",
     "timestamp": "2025-01-12 18:29:33"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player name changed to ArthurNery",
+    "timestamp": "2025-01-12 18:30:30"
   }
 ]
