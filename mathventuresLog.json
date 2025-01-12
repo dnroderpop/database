@@ -998,5 +998,10 @@
     "playerName": "Arthur",
     "logMessage": "Player name changed to ArthurNery",
     "timestamp": "2025-01-12 18:30:30"
+  },
+  {
+    "playerName": "ArthurNery",
+    "logMessage": "Player ArthurNery answered question '7 x ( 45 / 9 ) - 8 =  27 ' incorrectly with '-1'.",
+    "timestamp": "2025-01-12 18:37:26"
   }
 ]
