@@ -195,12 +195,12 @@
     ]
   },
   {
-    "playerName": null,
-    "gender": null,
+    "playerName": "sf",
+    "gender": "Male",
     "deaths": 0,
     "wrongAnswers": 0,
     "rightAnswers": 0,
-    "lastLevelUnlock": 0,
+    "lastLevelUnlock": 1,
     "levelPlays": [
       0,
       0,
