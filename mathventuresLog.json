@@ -1163,5 +1163,10 @@
     "playerName": "ssd",
     "logMessage": "Player ssd reset their progress.",
     "timestamp": "2025-01-13 17:04:24"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player Arthur reset their progress.",
+    "timestamp": "2025-01-13 17:07:07"
   }
 ]
