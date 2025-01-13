@@ -1108,5 +1108,10 @@
     "playerName": "ssd",
     "logMessage": "Player ssd correctly answered '7 + 24 - 15 =' with '16'.",
     "timestamp": "2025-01-13 16:00:00"
+  },
+  {
+    "playerName": "ssd",
+    "logMessage": "Player ssd reset their progress.",
+    "timestamp": "2025-01-13 16:00:32"
   }
 ]
