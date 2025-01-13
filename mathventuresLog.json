@@ -1008,5 +1008,10 @@
     "playerName": "ArthurNery",
     "logMessage": "Player ArthurNery correctly answered '7 x ( 45 / 9 ) - 8 =  27 ' with '27'.",
     "timestamp": "2025-01-12 18:38:00"
+  },
+  {
+    "playerName": "ArthurNery",
+    "logMessage": "Player ArthurNery reset their progress.",
+    "timestamp": "2025-01-13 01:17:18"
   }
 ]
