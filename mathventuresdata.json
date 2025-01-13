@@ -17,15 +17,15 @@
   {
     "playerName": "ArthurNery",
     "gender": "Male",
-    "deaths": 10,
-    "wrongAnswers": 15,
-    "rightAnswers": 7,
-    "lastLevelUnlock": 4,
+    "deaths": 0,
+    "wrongAnswers": 0,
+    "rightAnswers": 0,
+    "lastLevelUnlock": 1,
     "levelPlays": [
-      3,
-      1,
-      1,
-      2,
+      0,
+      0,
+      0,
+      0,
       0
     ]
   },
