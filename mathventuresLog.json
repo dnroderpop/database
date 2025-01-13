@@ -1043,5 +1043,10 @@
     "playerName": "Player",
     "logMessage": "Player name changed to Arthurs",
     "timestamp": "2025-01-13 01:23:40"
+  },
+  {
+    "playerName": "Arthurs",
+    "logMessage": "Player ArthurNery reset their progress.",
+    "timestamp": "2025-01-13 01:23:53"
   }
 ]
