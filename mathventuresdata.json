@@ -1,56 +1,212 @@
 [
   {
-    "playerName": "Arthur(01142025-0120)",
-    "level": 1,
-    "score": 100,
-    "date": "01/12/2025 14:30:45"
+    "playerName": "Olivia",
+    "gender": "Female",
+    "deaths": 3,
+    "wrongAnswers": 3,
+    "rightAnswers": 15,
+    "lastLevelUnlock": 5,
+    "levelPlays": [
+      2,
+      0,
+      0,
+      2,
+      2
+    ]
   },
   {
-    "playerName": "Elina",
-    "level": 1,
-    "score": 88,
-    "date": "01/11/2025 13:15:20"
+    "playerName": "Arthur",
+    "gender": "Male",
+    "deaths": 0,
+    "wrongAnswers": 0,
+    "rightAnswers": 0,
+    "lastLevelUnlock": 1,
+    "levelPlays": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
-    "playerName": "Arthur(01142025-0120)",
-    "level": 2,
-    "score": 100,
-    "date": "01/12/2025 15:00:10"
+    "playerName": "Mia",
+    "gender": "Female",
+    "deaths": 3,
+    "wrongAnswers": 10,
+    "rightAnswers": 12,
+    "lastLevelUnlock": 3,
+    "levelPlays": [
+      0,
+      0,
+      3,
+      2,
+      2
+    ]
   },
   {
-    "playerName": "Elina",
-    "level": 2,
-    "score": 92,
-    "date": "01/11/2025 14:50:30"
+    "playerName": "James",
+    "gender": "Male",
+    "deaths": 6,
+    "wrongAnswers": 9,
+    "rightAnswers": 6,
+    "lastLevelUnlock": 4,
+    "levelPlays": [
+      2,
+      3,
+      0,
+      0,
+      3
+    ]
   },
   {
-    "playerName": "Arthur(01142025-0120)",
-    "level": 3,
-    "score": 75,
-    "date": "01/12/2025 16:45:05"
+    "playerName": "Sophia",
+    "gender": "Female",
+    "deaths": 10,
+    "wrongAnswers": 14,
+    "rightAnswers": 5,
+    "lastLevelUnlock": 2,
+    "levelPlays": [
+      3,
+      2,
+      0,
+      2,
+      0
+    ]
   },
   {
-    "playerName": "Elina",
-    "level": 3,
-    "score": 85,
-    "date": "01/11/2025 16:10:25"
+    "playerName": "Leo",
+    "gender": "Male",
+    "deaths": 2,
+    "wrongAnswers": 2,
+    "rightAnswers": 7,
+    "lastLevelUnlock": 3,
+    "levelPlays": [
+      2,
+      2,
+      3,
+      2,
+      3
+    ]
   },
   {
-    "playerName": "Arthur(01142025-0120)",
-    "level": 1,
-    "score": 100,
-    "date": "01/13/2025 02:45:09"
+    "playerName": "Henry",
+    "gender": "Male",
+    "deaths": 0,
+    "wrongAnswers": 11,
+    "rightAnswers": 1,
+    "lastLevelUnlock": 5,
+    "levelPlays": [
+      0,
+      2,
+      2,
+      0,
+      2
+    ]
+  },
+  {
+    "playerName": "Mia",
+    "gender": "Female",
+    "deaths": 7,
+    "wrongAnswers": 3,
+    "rightAnswers": 5,
+    "lastLevelUnlock": 4,
+    "levelPlays": [
+      2,
+      2,
+      1,
+      2,
+      1
+    ]
+  },
+  {
+    "playerName": "Ron",
+    "gender": "Male",
+    "deaths": 6,
+    "wrongAnswers": 4,
+    "rightAnswers": 12,
+    "lastLevelUnlock": 4,
+    "levelPlays": [
+      3,
+      1,
+      3,
+      0,
+      3
+    ]
+  },
+  {
+    "playerName": "Sophia",
+    "gender": "Female",
+    "deaths": 9,
+    "wrongAnswers": 5,
+    "rightAnswers": 7,
+    "lastLevelUnlock": 1,
+    "levelPlays": [
+      3,
+      0,
+      2,
+      2,
+      2
+    ]
+  },
+  {
+    "playerName": "SSSS",
+    "gender": "Male",
+    "deaths": 0,
+    "wrongAnswers": 0,
+    "rightAnswers": 0,
+    "lastLevelUnlock": 1,
+    "levelPlays": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
     "playerName": "benemaloi",
-    "level": 1,
-    "score": 100,
-    "date": "01/13/2025 09:53:58"
+    "gender": "Male",
+    "deaths": 0,
+    "wrongAnswers": 0,
+    "rightAnswers": 1,
+    "lastLevelUnlock": 1,
+    "levelPlays": [
+      1,
+      0,
+      0,
+      0,
+      0
+    ]
   },
   {
     "playerName": "ssd",
-    "level": 1,
-    "score": 100,
-    "date": "01/14/2025 00:00:02"
+    "gender": "Male",
+    "deaths": 0,
+    "wrongAnswers": 0,
+    "rightAnswers": 0,
+    "lastLevelUnlock": 1,
+    "levelPlays": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "playerName": null,
+    "gender": null,
+    "deaths": 0,
+    "wrongAnswers": 0,
+    "rightAnswers": 0,
+    "lastLevelUnlock": 0,
+    "levelPlays": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   }
 ]
