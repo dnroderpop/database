@@ -193,5 +193,20 @@
       0,
       0
     ]
+  },
+  {
+    "playerName": null,
+    "gender": null,
+    "deaths": 0,
+    "wrongAnswers": 0,
+    "rightAnswers": 0,
+    "lastLevelUnlock": 0,
+    "levelPlays": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
   }
 ]
