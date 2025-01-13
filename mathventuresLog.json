@@ -1273,5 +1273,10 @@
     "playerName": "kissy",
     "logMessage": "Player name changed to ksss",
     "timestamp": "2025-01-13 21:20:42"
+  },
+  {
+    "playerName": "ksss",
+    "logMessage": "Player  answered question '90 - 17 + 5 =' incorrectly with '-1'.",
+    "timestamp": "2025-01-13 21:23:27"
   }
 ]
