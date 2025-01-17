@@ -1338,5 +1338,10 @@
     "playerName": "aaa",
     "logMessage": "Player  () died on level 1.",
     "timestamp": "2025-01-17 07:44:04"
+  },
+  {
+    "playerName": "aaa",
+    "logMessage": "Player aaa answered question '90 - 17 + 5 =' incorrectly with '-1'.",
+    "timestamp": "2025-01-17 07:47:44"
   }
 ]
