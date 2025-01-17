@@ -1328,5 +1328,10 @@
     "playerName": "aaa",
     "logMessage": "Player  answered question '12 + 24 - 4 =' incorrectly with '-1'.",
     "timestamp": "2025-01-17 07:42:13"
+  },
+  {
+    "playerName": "aaa",
+    "logMessage": "Player  correctly answered '12 + 24 - 4 =' with '32'.",
+    "timestamp": "2025-01-17 07:43:24"
   }
 ]
