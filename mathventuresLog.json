@@ -1313,5 +1313,10 @@
     "playerName": "Arthur",
     "logMessage": "Player Arthur answered question '90 - 17 + 5 =' incorrectly with '-1'.",
     "timestamp": "2025-01-17 07:27:26"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player Arthur answered question '90 - 17 + 5 =' incorrectly with '-1'.",
+    "timestamp": "2025-01-17 07:28:04"
   }
 ]
