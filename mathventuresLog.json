@@ -1368,5 +1368,10 @@
     "playerName": "benemaloi",
     "logMessage": "Player benemaloi correctly answered '6 x 9 - 8 - 5 = 41' with '41'.",
     "timestamp": "2025-01-22 16:56:00"
+  },
+  {
+    "playerName": "benemaloi",
+    "logMessage": "Player benemaloi answered question '6 + 7 + 12 / 6 = 15' incorrectly with '-1'.",
+    "timestamp": "2025-01-22 17:11:08"
   }
 ]
