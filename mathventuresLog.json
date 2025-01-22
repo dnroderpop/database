@@ -1373,5 +1373,10 @@
     "playerName": "benemaloi",
     "logMessage": "Player benemaloi answered question '6 + 7 + 12 / 6 = 15' incorrectly with '-1'.",
     "timestamp": "2025-01-22 17:11:08"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player Arthur answered question '90 - 17 + 5 =' incorrectly with '-1'.",
+    "timestamp": "2025-01-22 17:13:09"
   }
 ]
