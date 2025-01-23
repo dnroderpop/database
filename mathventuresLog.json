@@ -1558,5 +1558,10 @@
     "playerName": "benemaloi",
     "logMessage": "Player benemaloi correctly answered '7 + 24 - 15 =' with '16'.",
     "timestamp": "2025-01-23 14:09:35"
+  },
+  {
+    "playerName": "benemaloi",
+    "logMessage": "Player benemaloi answered question '9 x 2 + 13 - 8 = 23' incorrectly with '-1'.",
+    "timestamp": "2025-01-23 14:10:36"
   }
 ]
