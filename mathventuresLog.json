@@ -1563,5 +1563,10 @@
     "playerName": "benemaloi",
     "logMessage": "Player benemaloi answered question '9 x 2 + 13 - 8 = 23' incorrectly with '-1'.",
     "timestamp": "2025-01-23 14:10:36"
+  },
+  {
+    "playerName": "benemaloi",
+    "logMessage": "Player benemaloi (Male) died on level 1.",
+    "timestamp": "2025-01-23 14:11:22"
   }
 ]
