@@ -1503,5 +1503,10 @@
     "playerName": "benemaloi",
     "logMessage": "Player benemaloi correctly answered '9 x 2 + 13 - 8 = 23' with '23'.",
     "timestamp": "2025-01-22 17:42:53"
+  },
+  {
+    "playerName": "ssdddd",
+    "logMessage": "Player ssdddd (Male) died on level 1.",
+    "timestamp": "2025-01-23 13:29:16"
   }
 ]
