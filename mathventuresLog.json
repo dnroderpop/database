@@ -1583,5 +1583,10 @@
     "playerName": "ssdddd",
     "logMessage": "Player ssdddd answered question '12 + 24 - 4 =' incorrectly with '-1'.",
     "timestamp": "2025-01-23 15:26:26"
+  },
+  {
+    "playerName": "benemaloi",
+    "logMessage": "Player benemaloi (Male) died on level 1.",
+    "timestamp": "2025-01-23 16:55:54"
   }
 ]
