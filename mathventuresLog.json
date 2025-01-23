@@ -1548,5 +1548,10 @@
     "playerName": "Arthur",
     "logMessage": "Player Arthur (Male) died on level 1.",
     "timestamp": "2025-01-23 14:08:40"
+  },
+  {
+    "playerName": "benemaloi",
+    "logMessage": "Player benemaloi answered question '7 + 24 - 15 =' incorrectly with '-1'.",
+    "timestamp": "2025-01-23 14:08:51"
   }
 ]
