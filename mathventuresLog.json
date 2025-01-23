@@ -1598,5 +1598,10 @@
     "playerName": "ssdddd",
     "logMessage": "Player ssdddd (Male) died on level 1.",
     "timestamp": "2025-01-23 17:20:59"
+  },
+  {
+    "playerName": "ssdddd",
+    "logMessage": "Player ssdddd () died on level 1.",
+    "timestamp": "2025-01-23 17:22:13"
   }
 ]
