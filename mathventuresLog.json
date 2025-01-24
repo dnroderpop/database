@@ -1638,5 +1638,10 @@
     "playerName": "Arthur",
     "logMessage": "Player Arthur correctly answered '25 - 40 / 8 =' with '20'.",
     "timestamp": "2025-01-24 00:12:30"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player has fallen at level 1",
+    "timestamp": "2025-01-24 00:13:41"
   }
 ]
