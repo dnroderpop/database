@@ -1663,5 +1663,10 @@
     "playerName": "benemaloi",
     "logMessage": "Player benemaloi () died on level 1.",
     "timestamp": "2025-01-24 00:14:47"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player Arthur (Male) died on level 1.",
+    "timestamp": "2025-01-24 00:14:58"
   }
 ]
