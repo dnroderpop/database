@@ -1633,5 +1633,10 @@
     "playerName": "Arthur",
     "logMessage": "Player Arthur correctly answered '9 x 2 + 13 - 8 =' with '23'.",
     "timestamp": "2025-01-24 00:10:12"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player Arthur correctly answered '25 - 40 / 8 =' with '20'.",
+    "timestamp": "2025-01-24 00:12:30"
   }
 ]
