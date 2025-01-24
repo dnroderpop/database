@@ -1628,5 +1628,10 @@
     "playerName": "Arthur",
     "logMessage": "Player has fallen at level 1",
     "timestamp": "2025-01-24 00:08:51"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player Arthur correctly answered '9 x 2 + 13 - 8 =' with '23'.",
+    "timestamp": "2025-01-24 00:10:12"
   }
 ]
