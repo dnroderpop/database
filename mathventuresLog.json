@@ -1708,5 +1708,10 @@
     "playerName": "benemaloi",
     "logMessage": "Player has fallen at level 1",
     "timestamp": "2025-01-24 00:18:45"
+  },
+  {
+    "playerName": "benemaloi",
+    "logMessage": "Player benemaloi answered question '6 x 9 - 8 - 5 =' incorrectly with '-1'.",
+    "timestamp": "2025-01-24 00:20:11"
   }
 ]
