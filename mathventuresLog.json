@@ -1763,5 +1763,10 @@
     "playerName": "ssdddd",
     "logMessage": "Player ssdddd correctly answered '7 + 24 - 15 =' with '16'.",
     "timestamp": "2025-01-26 18:31:44"
+  },
+  {
+    "playerName": "ssdddd",
+    "logMessage": "Player ssdddd answered question '31 + 36 / 9 =' incorrectly with '-1'.",
+    "timestamp": "2025-01-26 18:52:50"
   }
 ]
