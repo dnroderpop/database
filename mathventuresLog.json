@@ -1818,5 +1818,10 @@
     "playerName": "benemaloi",
     "logMessage": "Player benemaloi answered question '90 - 17 + 5 =' incorrectly with '-1'.",
     "timestamp": "2025-01-27 19:14:45"
+  },
+  {
+    "playerName": "benemaloi",
+    "logMessage": "Player benemaloi answered question '12 + 24 - 4 =' incorrectly with '-1'.",
+    "timestamp": "2025-01-27 19:16:07"
   }
 ]
