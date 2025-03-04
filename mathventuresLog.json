@@ -1848,5 +1848,10 @@
     "playerName": "Arthur",
     "logMessage": "Player Arthur answered question '7 + 24 - 15 =' incorrectly with '-1'.",
     "timestamp": "2025-03-04 09:30:04"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player Arthur correctly answered '7 + 24 - 15 =' with '16'.",
+    "timestamp": "2025-03-04 09:30:27"
   }
 ]
