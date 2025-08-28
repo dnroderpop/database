@@ -1873,5 +1873,10 @@
     "playerName": "Arthur",
     "logMessage": "Player has fallen at level 1",
     "timestamp": "2025-08-28 14:53:04"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player Arthur (Male) died on level 1.",
+    "timestamp": "2025-08-28 14:53:41"
   }
 ]
