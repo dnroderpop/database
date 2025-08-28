@@ -1853,5 +1853,10 @@
     "playerName": "Arthur",
     "logMessage": "Player Arthur correctly answered '7 + 24 - 15 =' with '16'.",
     "timestamp": "2025-03-04 09:30:27"
+  },
+  {
+    "playerName": "Arthur",
+    "logMessage": "Player Arthur correctly answered '90 - 17 + 5 =' with '68'.",
+    "timestamp": "2025-08-28 14:49:45"
   }
 ]
